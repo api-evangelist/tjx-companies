@@ -1,0 +1,34 @@
+aid: tjx-companies
+url: https://raw.githubusercontent.com/api-evangelist/tjx-companies/refs/heads/main/apis.yml
+name: TJX Companies
+type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tjx-companies.png
+tags:
+  - Retail
+  - Fashion
+  - Discount
+description: 'The leading off-price retailer in the United States and worldwide operating TJ Maxx, Marshalls, HomeGoods, and Sierra. Sources brand-name and designer merchandise at discount prices through an opportunistic buying model.'
+created: '2026-05-05'
+modified: '2026-05-05'
+specificationVersion: '0.23'
+apis: []
+common:
+  - type: DomainSecurity
+    url: security/tjx-companies-domain-security.yml
+  - type: GitHubOrganization
+    url: https://github.com/TJX
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tjx
+  - type: Website
+    url: https://www.tjx.com/
